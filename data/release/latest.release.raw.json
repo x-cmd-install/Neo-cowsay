@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2156156,
       "digest": null,
-      "download_count": 205,
+      "download_count": 207,
       "created_at": "2022-02-24T17:08:00Z",
       "updated_at": "2022-02-24T17:08:00Z",
       "browser_download_url": "https://github.com/Code-Hex/Neo-cowsay/releases/download/v2.0.4/cowsay_2.0.4_Linux_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2187126,
       "digest": null,
-      "download_count": 29,
+      "download_count": 31,
       "created_at": "2022-02-24T17:08:01Z",
       "updated_at": "2022-02-24T17:08:02Z",
       "browser_download_url": "https://github.com/Code-Hex/Neo-cowsay/releases/download/v2.0.4/cowsay_2.0.4_Linux_i386.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2306042,
       "digest": null,
-      "download_count": 4523,
+      "download_count": 4527,
       "created_at": "2022-02-24T17:08:00Z",
       "updated_at": "2022-02-24T17:08:01Z",
       "browser_download_url": "https://github.com/Code-Hex/Neo-cowsay/releases/download/v2.0.4/cowsay_2.0.4_Linux_x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2379837,
       "digest": null,
-      "download_count": 452,
+      "download_count": 454,
       "created_at": "2022-02-24T17:08:02Z",
       "updated_at": "2022-02-24T17:08:03Z",
       "browser_download_url": "https://github.com/Code-Hex/Neo-cowsay/releases/download/v2.0.4/cowsay_2.0.4_macOS_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2149837,
       "digest": null,
-      "download_count": 1819,
+      "download_count": 1823,
       "created_at": "2022-02-24T17:08:00Z",
       "updated_at": "2022-02-24T17:08:00Z",
       "browser_download_url": "https://github.com/Code-Hex/Neo-cowsay/releases/download/v2.0.4/cowsay_2.0.4_Windows_arm.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2046567,
       "digest": null,
-      "download_count": 1994,
+      "download_count": 1998,
       "created_at": "2022-02-24T17:07:59Z",
       "updated_at": "2022-02-24T17:08:00Z",
       "browser_download_url": "https://github.com/Code-Hex/Neo-cowsay/releases/download/v2.0.4/cowsay_2.0.4_Windows_arm64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2136919,
       "digest": null,
-      "download_count": 1982,
+      "download_count": 1986,
       "created_at": "2022-02-24T17:08:01Z",
       "updated_at": "2022-02-24T17:08:01Z",
       "browser_download_url": "https://github.com/Code-Hex/Neo-cowsay/releases/download/v2.0.4/cowsay_2.0.4_Windows_i386.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2187738,
       "digest": null,
-      "download_count": 6111,
+      "download_count": 6132,
       "created_at": "2022-02-24T17:08:02Z",
       "updated_at": "2022-02-24T17:08:02Z",
       "browser_download_url": "https://github.com/Code-Hex/Neo-cowsay/releases/download/v2.0.4/cowsay_2.0.4_Windows_x86_64.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 2186416,
       "digest": null,
-      "download_count": 54,
+      "download_count": 56,
       "created_at": "2022-02-24T17:07:59Z",
       "updated_at": "2022-02-24T17:07:59Z",
       "browser_download_url": "https://github.com/Code-Hex/Neo-cowsay/releases/download/v2.0.4/Neo-cowsay_2.0.4_linux_386.deb"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 2182928,
       "digest": null,
-      "download_count": 44,
+      "download_count": 46,
       "created_at": "2022-02-24T17:07:56Z",
       "updated_at": "2022-02-24T17:07:56Z",
       "browser_download_url": "https://github.com/Code-Hex/Neo-cowsay/releases/download/v2.0.4/Neo-cowsay_2.0.4_linux_386.rpm"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 2310464,
       "digest": null,
-      "download_count": 97,
+      "download_count": 99,
       "created_at": "2022-02-24T17:07:58Z",
       "updated_at": "2022-02-24T17:07:59Z",
       "browser_download_url": "https://github.com/Code-Hex/Neo-cowsay/releases/download/v2.0.4/Neo-cowsay_2.0.4_linux_amd64.deb"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 2306973,
       "digest": null,
-      "download_count": 65,
+      "download_count": 67,
       "created_at": "2022-02-24T17:07:56Z",
       "updated_at": "2022-02-24T17:07:56Z",
       "browser_download_url": "https://github.com/Code-Hex/Neo-cowsay/releases/download/v2.0.4/Neo-cowsay_2.0.4_linux_amd64.rpm"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 2157056,
       "digest": null,
-      "download_count": 20,
+      "download_count": 22,
       "created_at": "2022-02-24T17:07:58Z",
       "updated_at": "2022-02-24T17:07:59Z",
       "browser_download_url": "https://github.com/Code-Hex/Neo-cowsay/releases/download/v2.0.4/Neo-cowsay_2.0.4_linux_arm64.deb"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 2154414,
       "digest": null,
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2022-02-24T17:07:55Z",
       "updated_at": "2022-02-24T17:07:55Z",
       "browser_download_url": "https://github.com/Code-Hex/Neo-cowsay/releases/download/v2.0.4/Neo-cowsay_2.0.4_linux_arm64.rpm"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 2221748,
       "digest": null,
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2022-02-24T17:07:56Z",
       "updated_at": "2022-02-24T17:07:57Z",
       "browser_download_url": "https://github.com/Code-Hex/Neo-cowsay/releases/download/v2.0.4/Neo-cowsay_2.0.4_linux_armv6.deb"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 2220917,
       "digest": null,
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2022-02-24T17:07:56Z",
       "updated_at": "2022-02-24T17:07:57Z",
       "browser_download_url": "https://github.com/Code-Hex/Neo-cowsay/releases/download/v2.0.4/Neo-cowsay_2.0.4_linux_armv6.rpm"
