@@ -1,0 +1,121 @@
+about:
+  description: "🐮 cowsay is reborn. Neo Cowsay has written in Go."
+  license: Artistic-2.0
+  homepage: 
+  head: 6c8b5ba
+  archived: false
+  latestVersion: "v2.1.0"
+  latestRelease: "v2.1.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T08:55:34Z
+timeline:
+  created: 2016-11-05
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-28
+  lastRelease: 2026-11-28
+  lastPrerelease: 
+popularity:
+  star: 345
+  watcher: 7
+  fork: 25
+  release: 21
+  contributor: 6
+  pullRequest: 76
+  issue: 9
+language:
+  Go: 55668
+  Makefile: 715
+totalBytes: 56383
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 1
+    mergedPR: 7
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 12
+  last60d:
+    since: 2026-09-29
+    release: 1
+    mergedPR: 8
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 14
+  last90d:
+    since: 2026-08-30
+    release: 1
+    mergedPR: 8
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 14
+  last180d:
+    since: 2026-06-01
+    release: 1
+    mergedPR: 8
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 14
+  last360d:
+    since: 2025-12-03
+    release: 1
+    mergedPR: 9
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 15
+  last720d:
+    since: 2024-12-08
+    release: 1
+    mergedPR: 9
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 25
+total:
+  release: 21
+  mergedPR: 60
+  openPR: 0
+  closedIssue: 9
+  openIssue: 0
+  commit: 288
+---
+path: /home/runner/.x-repo/github.com/Code-Hex/Neo-cowsay
+collectedAt: 2026-11-28T08:55:35Z
+loc:
+  Go:
+    code: 2361
+    comments: 118
+    blanks: 302
+    files: 24
+  Pan:
+    code: 100
+    comments: 0
+    blanks: 14
+    files: 1
+  Makefile:
+    code: 30
+    comments: 0
+    blanks: 9
+    files: 1
+  Markdown:
+    code: 0
+    comments: 157
+    blanks: 66
+    files: 3
+  Text:
+    code: 0
+    comments: 224
+    blanks: 2
+    files: 26
+total:
+  code: 2507
+  comments: 499
+  blanks: 396
+  files: 55
+---
+
+---
